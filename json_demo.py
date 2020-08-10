@@ -17,6 +17,7 @@ pertama = '''
 }
 '''
 # merubah kedalam bentuk json
+# JSON string selalu dalma double quote ""
 datajson =json.loads(pertama)
 print(datajson)
 print(type(datajson))
@@ -36,5 +37,6 @@ for city in datajson['data']:
 for hapus in datajson['data']:
     del hapus['asal']
 
+# merubah python value menjadi JSON format ('' -> "")
 new_string = json.dumps(datajson)
 print(new_string)
