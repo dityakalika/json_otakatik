@@ -1,0 +1,96 @@
+No,Title,Genre,Rating,Release Date,Actors,PG,Duration
+1,Game Night,"['Action', 'Comedy', 'Crime']",,2018-02-28,"['Rachel McAdams', 'Jesse Plemons', 'Jason Bateman']",11,PT100M
+2,Area X: Annihilation,"['Adventure', 'Drama', 'Fantasy']",,2018-02-23,"['Tessa Thompson', 'Jennifer Jason Leigh', 'Natalie Portman']",R,
+3,Hannah,['Drama'],6.5,2018-01-24,"['Charlotte Rampling', 'André Wilms', 'Stéphanie Van Vyve']",,PT95M
+4,The Lodgers,"['Drama', 'Horror', 'Romance']",5.8,2018-03-09,"['Charlotte Vega', 'David Bradley', 'Moe Dunford']",R,PT92M
+5,Beast of Burden,"['Action', 'Crime', 'Drama']",,2018-02,"['Daniel Radcliffe', 'Grace Gummer', 'Pablo Schreiber']",R,
+6,The Chamber,"['Horror', 'Thriller']",4.4,2017-03-10,"['Johannes Kuhnke', 'Charlotte Salt', 'James McArdle']",,PT88M
+7,Survivors Guide to Prison,['Documentary'],,2018-02-23,"['Susan Sarandon', 'Patricia Arquette', 'Danny Trejo']",,PT102M
+8,Red Sparrow,"['Mystery', 'Thriller']",,2018-03-02,"['Jennifer Lawrence', 'Joel Edgerton', 'Charlotte Rampling']",R,PT139M
+9,Death Wish,"['Action', 'Crime', 'Drama']",,2018-04-13,"['Bruce Willis', ""Vincent D'Onofrio"", 'Elisabeth Shue']",R,PT108M
+10,Foxtrot,['Drama'],7.4,2017-09-21,"['Lior Ashkenazi', 'Sarah Adler', 'Yonaton Shiray']",R,PT108M
+11,They Remain,['Thriller'],7.6,2018-01-28,"['William Jackson Harper', 'Rebecca Henderson']",,
+12,Submission,['Drama'],6.1,2017-10-13,"['Stanley Tucci', 'Addison Timlin', 'Kyra Sedgwick']",,
+13,Souvenir,"['Drama', 'Music', 'Romance']",6.1,2017-05-19,"['Isabelle Huppert', 'Kévin Azaïs', 'Johan Leysen']",Btl,PT90M
+14,Dance Academy: The Movie,['Drama'],7.0,2017-04-06,"['Alex Acosta', 'Alicia Banit', 'Chris Bartlett']",,PT101M
+15,Ett veck i tiden,"['Adventure', 'Family', 'Fantasy']",,2018-04-06,"['Gugu Mbatha-Raw', 'Reese Witherspoon', 'Chris Pine']",PG,
+16,The Strangers: Prey at Night,['Horror'],,2018-03-09,"['Christina Hendricks', 'Bailee Madison', 'Martin Henderson']",R,
+17,The Hurricane Heist,"['Action', 'Thriller']",6.8,2018-03-23,"['Toby Kebbell', 'Maggie Grace', 'Ryan Kwanten']",PG-13,
+18,Gringo,"['Action', 'Comedy', 'Drama']",,2018-03-09,"['David Oyelowo', 'Charlize Theron', 'Joel Edgerton']",R,PT110M
+19,Thoroughbreds,"['Drama', 'Thriller']",7.0,2018-03-09,"['Anya Taylor-Joy', 'Olivia Cooke', 'Paul Sparks']",,PT92M
+20,En sista semester,"['Adventure', 'Comedy', 'Drama']",6.5,2018-03-16,"['Helen Mirren', 'Donald Sutherland', 'Janel Moloney']",7,PT112M
+21,Leaning Into the Wind: Andy Goldsworthy,['Documentary'],7.3,2017-12-14,"['Andy Goldsworthy', 'Holly Goldsworthy']",PG,PT93M
+22,Tomb Raider,"['Action', 'Adventure']",,2018-03-16,"['Alicia Vikander', 'Hannah John-Kamen', 'Walton Goggins']",PG-13,
+23,"Love, Simon","['Comedy', 'Drama', 'Romance']",,2018-06-15,"['Nick Robinson', 'Josh Duhamel', 'Jennifer Garner']",PG-13,PT109M
+24,Entebbe,"['Crime', 'Drama', 'Thriller']",,2018-03-16,"['Daniel Brühl', 'Rosamund Pike', 'Eddie Marsan']",PG-13,PT106M
+25,Flower,"['Comedy', 'Drama']",6.7,2018-03-16,"['Zoey Deutch', 'Kathryn Hahn', 'Adam Scott']",R,PT90M
+26,Huntsville,"['Drama', 'Thriller']",7.6,2018-03-16,"['Sophie Turner', 'Dylan McDermott', 'Jack Kilmer']",,PT100M
+27,I Can Only Imagine,"['Drama', 'Family']",,2018-03-16,"['J. Michael Finley', 'Brody Rose', 'Dennis Quaid']",PG,PT110M
+28,Journey's End,"['Drama', 'War']",7.2,2018-02-02,"['Paul Bettany', 'Sam Claflin', 'Asa Butterfield']",R,PT107M
+29,Ramen Heads,['Documentary'],7.2,2018-01-27,"['Shôta Iida', 'Kumiko Ishida', 'Katsuya Kobayashi']",,PT93M
+30,Pacific Rim Uprising,"['Action', 'Adventure', 'Sci-Fi']",,2018-03-23,"['Scott Eastwood', 'Adria Arjona', 'Tian Jing']",PG-13,
+31,Isle of Dogs,"['Animation', 'Adventure', 'Comedy']",,2018-05-04,"['Bryan Cranston', 'Koyu Rankin', 'Edward Norton']",PG-13,
+32,Unsane,"['Horror', 'Thriller']",,2018-06-20,"['Claire Foy', 'Juno Temple', 'Aimee Mullins']",R,
+33,Sherlock Gnomes,"['Animation', 'Adventure', 'Comedy']",,2018-03-23,"['Emily Blunt', 'Johnny Depp', 'James McAvoy']",,
+34,"Paul, Apostle of Christ",['Drama'],,2018-03-28,"['James Faulkner', 'Jim Caviezel', 'Joanne Whalley']",PG-13,
+35,Midnight Sun,"['Drama', 'Romance']",,2018-03-30,"['Bella Thorne', 'Patrick Schwarzenegger', 'Rob Riggle']",PG-13,
+36,Hichki,['Drama'],,2018-03-23,"['Rani Mukerji', 'Ivan Rodrigues', 'Asif Basra']",,PT106M
+37,Final Portrait,"['Biography', 'Comedy', 'Drama']",6.4,2017-08-18,"['Armie Hammer', 'Clémence Poésy', 'Tony Shalhoub']",R,PT90M
+38,Izzy Gets the F*ck Across Town,"['Comedy', 'Drama']",8.4,2018-03,"['Haley Joel Osment', 'Mackenzie Davis', 'Alia Shawkat']",,PT86M
+39,I Kill Giants,"['Drama', 'Fantasy', 'Thriller']",7.2,2018-03-23,"['Zoe Saldana', 'Imogen Poots', 'Jennifer Ehle']",11,PT104M
+40,Les fantômes d'Ismaël,"['Drama', 'Romance', 'Thriller']",5.8,2017-05-17,"['Mathieu Amalric', 'Marion Cotillard', 'Charlotte Gainsbourg']",R,PT114M
+41,Vår vingård i Bourgogne,"['Comedy', 'Drama']",7.0,2017-09-22,"['Pio Marmaï', 'Ana Girardot', 'François Civil']",Btl,PT113M
+42,Un sac de billes,['Drama'],7.3,2017-01-18,"['Dorian Le Clech', 'Batyste Fleurial', 'Patrick Bruel']",,PT110M
+43,The Endless,"['Horror', 'Sci-Fi', 'Thriller']",6.7,2018-03-23,"['Callie Hernandez', 'Tate Ellington', 'James Jordan']",,PT111M
+44,Getting Grace,['Drama'],9.9,2017-09-08,"['Daniel Roebuck', 'Madelyn Dundon', 'Marsha Dietlein']",,
+45,Ready Player One,"['Action', 'Adventure', 'Sci-Fi']",,2018-03-28,"['Letitia Wright', 'Hannah John-Kamen', 'Mckenna Grace']",PG-13,
+46,Acrimony,"['Drama', 'Thriller']",,2018-03-30,"['Taraji P. Henson', 'Danielle Nicolet', 'Ajiona Alexus']",R,
+47,God's Not Dead: A Light in Darkness,['Drama'],,2018-03-30,"['Jennifer Taylor', 'John Corbett', ""Tatum O'Neal""]",,
+48,Lean on Pete,"['Adventure', 'Drama']",7.1,2018-05-04,"['Travis Fimmel', 'Chloë Sevigny', 'Steve Buscemi']",R,PT121M
+49,Finding Your Feet,"['Comedy', 'Drama', 'Romance']",6.9,2018-02-23,"['Imelda Staunton', 'Timothy Spall', 'Joanna Lumley']",,PT111M
+50,Outside In,['Drama'],6.9,2018-04-03,"['Edie Falco', 'Jay Duplass', 'Kaitlyn Dever']",,PT109M
+51,The China Hustle,['Documentary'],7.3,2018-03-23,[],R,PT82M
+52,Gemini,"['Mystery', 'Thriller']",6.3,2018-03-30,"['Lola Kirke', 'Zoë Kravitz', 'John Cho']",R,PT93M
+53,Bad Samaritan,"['Horror', 'Thriller']",,2018-03-30,"['David Tennant', 'Kerry Condon', 'Robert Sheehan']",R,
+54,Blockers,['Comedy'],,2018-04-06,"['Kathryn Newton', 'Leslie Mann', 'John Cena']",R,
+55,A Quiet Place,"['Drama', 'Horror', 'Thriller']",,2018-04-06,"['John Krasinski', 'Emily Blunt', 'Noah Jupe']",,
+56,Chappaquiddick,"['Biography', 'Drama', 'History']",5.8,2018-04-06,"['Kate Mara', 'Jason Clarke', 'Olivia Thirlby']",PG-13,PT107M
+57,Spinning Man,"['Drama', 'Mystery', 'Thriller']",,2018,"['Odeya Rush', 'Pierce Brosnan', 'Guy Pearce']",R,PT100M
+58,Spiral,['Documentary'],,2018-04-06,[],,PT79M
+59,Where Is Kyra?,['Drama'],6.6,2017-01-23,"['Michelle Pfeiffer', 'Kiefer Sutherland', 'Suzanne Shepherd']",,PT98M
+60,Truth or Dare,"['Horror', 'Thriller']",,2018-04-20,"['Lucy Hale', 'Tyler Posey', 'Violett Beane']",,
+61,Overboard,"['Comedy', 'Romance']",,2018-04-13,"['Swoosie Kurtz', 'Anna Faris', 'Celeste Ziegler']",PG-13,
+62,The Rider,['Drama'],7.7,2018-04-13,"['Brady Jandreau', 'Tim Jandreau', 'Lilly Jandreau']",R,PT104M
+63,A Prayer Before Dawn,"['Action', 'Biography', 'Crime']",7.1,2018-04-13,"['Joe Cole', 'Vithaya Pansringarm', 'Panya Yimmumphai']",R,PT116M
+64,Beirut,"['Drama', 'Thriller']",4.9,2018-04-11,"['Rosamund Pike', 'Jon Hamm', 'Shea Whigham']",R,PT109M
+65,Zama,['Drama'],7.0,2017-09-28,"['Daniel Giménez Cacho', 'Lola Dueñas', 'Matheus Nachtergaele']",,PT115M
+66,Rampage,"['Action', 'Adventure', 'Sci-Fi']",,2018-04-13,"['Dwayne Johnson', 'Jeffrey Dean Morgan', 'Malin Akerman']",,
+67,Super Troopers 2,"['Comedy', 'Crime', 'Mystery']",,2018-04-20,"['Emmanuelle Chriqui', 'Rob Lowe', 'Lynda Carter']",R,
+68,Tully,['Comedy'],7.3,2018-04-20,"['Mackenzie Davis', 'Charlize Theron', 'Ron Livingston']",R,
+69,The Devil and Father Amorth,['Documentary'],6.2,2018-04-20,['Gabriele Amorth'],,PT68M
+70,Traffik,['Thriller'],,2018-04-27,"['Paula Patton', 'William Fichtner', 'Missi Pyle']",,
+71,Kings,"['Crime', 'Drama', 'Romance']",4.6,2018-04-25,"['Daniel Craig', 'Halle Berry', 'Issac Ryan Brown']",R,PT92M
+72,Le Redoutable,"['Biography', 'Comedy', 'Drama']",6.8,2017-09-13,"['Louis Garrel', 'Stacy Martin', 'Bérénice Bejo']",,PT107M
+73,Disobedience,"['Drama', 'Romance']",7.0,2018-04-27,"['Rachel McAdams', 'Rachel Weisz', 'Alessandro Nivola']",R,PT114M
+74,Selfie Dad,['Family'],,,"['James Denton', 'Johnny Pacar', 'Shelby Simmons']",,
+75,Armed,"['Action', 'Thriller']",,2018-02-02,"['William Fichtner', 'Ryan Guzman', 'Mario Van Peebles']",R,
+76,Avengers: Infinity War,"['Action', 'Adventure', 'Fantasy']",,2018-04-25,"['Karen Gillan', 'Tessa Thompson', 'Chadwick Boseman']",,
+77,La novia del desierto,['Drama'],6.7,2017-09-21,"['Paulina García', 'Claudio Rissi']",,PT78M
+78,Les gardiennes,['Drama'],7.3,2017-12-06,"['Nathalie Baye', 'Laura Smet', 'Iris Bry']",R,PT138M
+79,Life of the Party,['Comedy'],,2018-05-11,"['Melissa McCarthy', 'Debby Ryan', 'Gillian Jacobs']",PG-13,PT105M
+80,Breaking In,['Thriller'],,2018-05-11,"['Gabrielle Union', 'Billy Burke', 'Richard Cabral']",PG-13,
+81,Beast,['Drama'],7.1,2018-04-27,"['Johnny Flynn', 'Jessie Buckley', 'Geraldine James']",,PT107M
+82,Book Club,['Comedy'],,2018-05-18,"['Diane Keaton', 'Jane Fonda', 'Candice Bergen']",,
+83,Untitled Deadpool Sequel,"['Action', 'Adventure', 'Comedy']",,2018-05-16,"['Morena Baccarin', 'Josh Brolin', 'Brianna Hildebrand']",,
+84,Show Dogs,"['Adventure', 'Comedy', 'Family']",,2018-05-18,"['Natasha Lyonne', 'Stanley Tucci', 'Alan Cumming']",PG,
+85,Solo: A Star Wars Story,"['Action', 'Adventure', 'Fantasy']",,2018-05-23,"['Alden Ehrenreich', 'Emilia Clarke', 'Donald Glover']",,
+86,Avengers: Infinity War,"['Action', 'Adventure', 'Fantasy']",,2018-04-25,"['Karen Gillan', 'Tessa Thompson', 'Chadwick Boseman']",,
+87,La novia del desierto,['Drama'],6.7,2017-09-21,"['Paulina García', 'Claudio Rissi']",,PT78M
+88,Les gardiennes,['Drama'],7.3,2017-12-06,"['Nathalie Baye', 'Laura Smet', 'Iris Bry']",R,PT138M
+89,Life of the Party,['Comedy'],,2018-05-11,"['Melissa McCarthy', 'Debby Ryan', 'Gillian Jacobs']",PG-13,PT105M
+90,Breaking In,['Thriller'],,2018-05-11,"['Gabrielle Union', 'Billy Burke', 'Richard Cabral']",PG-13,
+91,Beast,['Drama'],7.1,2018-04-27,"['Johnny Flynn', 'Jessie Buckley', 'Geraldine James']",,PT107M
+92,Book Club,['Comedy'],,2018-05-18,"['Diane Keaton', 'Jane Fonda', 'Candice Bergen']",,
+93,Untitled Deadpool Sequel,"['Action', 'Adventure', 'Comedy']",,2018-05-16,"['Morena Baccarin', 'Josh Brolin', 'Brianna Hildebrand']",,
+94,Show Dogs,"['Adventure', 'Comedy', 'Family']",,2018-05-18,"['Natasha Lyonne', 'Stanley Tucci', 'Alan Cumming']",PG,
+95,Solo: A Star Wars Story,"['Action', 'Adventure', 'Fantasy']",,2018-05-23,"['Alden Ehrenreich', 'Emilia Clarke', 'Donald Glover']",,
